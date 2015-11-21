@@ -1,0 +1,16 @@
+{
+  "name": "elm-prime-factors-kata",
+  "version": "0.0.1",
+  "description": "The prime factors kata in Elm",
+  "author": "Robert Looby <robertjlooby@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robertjlooby/elm-prime-factors-kata"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "elm-test": "^0.16.0-beta"
+  },
+  "license": "MIT"
+}
